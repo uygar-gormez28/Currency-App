@@ -1,0 +1,18 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  box-sizing: border-box;
+  background-image: url(image/money.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.8;
+}
+
+.Dir {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
